@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yavuz Beydoğan</h1>
 <h3 align="center">A Backend Developer passionate about continuous learning and innovation</h3>
 <!-- GitHub Stats -->
-<p>  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzbeydogan&show_icons=true&locale=en&layout=compact" alt="yavuzbeydogan" 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzbeydogan&show_icons=true&locale=en&layout=compact" alt="yavuzbeydogan" 
 
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavuzbeydogan&show_icons=true&locale=en" alt="yavuzbeydogan" />
-</p>
-<p>
-  />
-</p>
 
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzbeydogan&" alt="yavuzbeydogan" />
 </p>
 - 🔭 Currently working on **.Net** projects and building scalable back-end systems.  
