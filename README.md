@@ -1,13 +1,10 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzbeydogan)](https://github.com/yavuzbeydogan/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Yavuz Beydoğan</h1>
 <h3 align="center">A Backend Developer passionate about continuous learning and innovation</h3>
 <!-- GitHub Stats -->
 (https://github-readme-stats.vercel.app/api?username=yavuzbeydogan)](https://github.com/yavuzbeydogan/github-readme-stats)
 
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavuzbeydogan&show_icons=true&locale=en" alt="yavuzbeydogan" />
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzbeydogan&" alt="yavuzbeydogan" />
-</p>
 - 🔭 Currently working on **.Net** projects and building scalable back-end systems.  
 - 🌱 Diving deeper into **EntityFrameworkCore, SignalR, CQRS**, and exploring **Microservices Architecture**. Also learning **React.js, HTML, CSS** for front-end development.  
 - 💬 Feel free to ask me about **.Net Core, RESTful APIs, Software Architecture**, or **React.js**.  
