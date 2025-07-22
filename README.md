@@ -3,8 +3,6 @@
 
 <!-- GitHub Stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yavuzbeydogan&theme=dark&border_radius=10&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzbeydogan)](https://github.com/yavuzbeydogan/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 - 🔭 Currently working on **.Net** projects and building scalable back-end systems.  
