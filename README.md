@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Yavuz Beydoğan</h1>
 <h3 align="center">Backend Developer focused on mastering new technologies and creating impactful solutions</h3>
-<!-- GitHub Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzbeydogan)](https://github.com/yavuzbeydogan/github-readme-stats)
+
+<!-- GitHub Stats -->
 
 - 🔭 Currently working on **.Net** projects and building scalable back-end systems.  
 - 🌱 Diving deeper into **EntityFrameworkCore, SignalR, CQRS**, and exploring **Microservices Architecture**. Also learning **React.js, HTML, CSS** for front-end development.  
