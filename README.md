@@ -1,6 +1,7 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzbeydogan)](https://github.com/yavuzbeydogan/github-readme-stats)
+
 <h1 align="center">Hi 👋, I'm Yavuz Beydoğan</h1>
 <h3 align="center">A Backend Developer passionate about continuous learning and innovation</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzbeydogan)](https://github.com/yavuzbeydogan/github-readme-stats)
 <!-- GitHub Stats -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzbeydogan&show_icons=true&locale=en&layout=compact" alt="yavuzbeydogan" 
 
