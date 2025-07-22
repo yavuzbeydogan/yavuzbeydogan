@@ -1,9 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Yavuz Beydoğan</h1>
 <h3 align="center">Backend Developer focused on mastering new technologies and creating impactful solutions</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzbeydogan)](https://github.com/yavuzbeydogan/github-readme-stats)
 
 <!-- GitHub Stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yavuzbeydogan&theme=dark&border_radius=10&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzbeydogan)](https://github.com/yavuzbeydogan/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 - 🔭 Currently working on **.Net** projects and building scalable back-end systems.  
 - 🌱 Diving deeper into **EntityFrameworkCore, SignalR, CQRS**, and exploring **Microservices Architecture**. Also learning **React.js, HTML, CSS** for front-end development.  
