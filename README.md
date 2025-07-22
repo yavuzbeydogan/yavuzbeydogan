@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer focused on mastering new technologies and creating impactful solutions</h3>
 
 <!-- GitHub Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yavuzbeydogan&theme=dark&border_radius=10&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yavuzbeydogan&border_radius=10&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 - 🔭 Currently working on **.Net** projects and building scalable back-end systems.  
