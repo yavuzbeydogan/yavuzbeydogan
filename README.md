@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yavuz Beydoğan</h1>
 <h3 align="center">Backend Developer focused on mastering new technologies and creating impactful solutions</h3>
-
 <!-- GitHub Stats -->
 <p align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
+  <a  target="_blank">  
+    [![yavuzbeydogan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzbeydogan)](https://github.com/yavuzbeydogan/github-readme-stats)
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzbeydogan&layout=compact" alt="Top Languages" />
   </a>
 </p>
