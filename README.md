@@ -4,7 +4,6 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=yavuzbeydogan&border_radius=10&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzbeydogan&layout=compact" alt="Top Languages" />
   </a>
 </p>
@@ -62,7 +61,7 @@
 
 
 
-<!-- Snake Contribution Animation -->
+<!-- Snake Contribution Animation
 ![snake gif](https://github.com/yavuzbeydogan/yavuzbeydogan/blob/output/github-contribution-grid-snake.gif)
 
 <picture>
@@ -70,3 +69,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yavuzbeydogan/yavuzbeydogan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yavuzbeydogan/yavuzbeydogan/output/github-contribution-grid-snake.svg">
 </picture>
+ -->
