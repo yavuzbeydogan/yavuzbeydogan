@@ -2,11 +2,13 @@
 <h3 align="center">Backend Developer focused on mastering new technologies and creating impactful solutions</h3>
 <!-- GitHub Stats -->
 <p align="center">
-  <a  target="_blank">  
-    [![yavuzbeydogan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzbeydogan)](https://github.com/yavuzbeydogan/github-readme-stats)
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzbeydogan&layout=compact" alt="Top Languages" />
-  </a>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzbeydogan&show_icons=true&locale=en&layout=compact" alt="yavuzbeydogan" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavuzbeydogan&show_icons=true&locale=en" alt="yavuzbeydogan" /></p>
+  
+
 </p>
+<br>
 
 - Building robust back-end systems with .Net.
 - Learning more about with Angular, Javascript, HTML, and CSS for UI development 
