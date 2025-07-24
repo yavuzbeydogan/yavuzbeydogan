@@ -1,16 +1,12 @@
-<h1 align="center">Hi 👋, I'm Yavuz Beydoğan</h1>
+<h1 align="center">Hi 👋, I'm Yavuz Beydogan</h1>
 <h3 align="center">Backend Developer focused on mastering new technologies and creating impactful solutions</h3>
 <!-- GitHub Stats -->
 <p align="center">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzbeydogan&show_icons=true&locale=en&layout=compact" alt="yavuzbeydogan" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavuzbeydogan&show_icons=true&locale=en" alt="yavuzbeydogan" /></p>
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavuzbeydogan&show_icons=true&locale=en" alt="yavuzbeydogan" /></p>
 
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yavuzbeydogan)](https://git.io/streak-stats)
-<br>
 
 - Building robust back-end systems with .Net.
 - Learning more about with Angular, Javascript, HTML, and CSS for UI development 
