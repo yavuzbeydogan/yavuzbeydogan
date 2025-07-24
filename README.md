@@ -6,8 +6,10 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavuzbeydogan&show_icons=true&locale=en" alt="yavuzbeydogan" /></p>
   
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yavuzbeydogan)](https://git.io/streak-stats)
 <br>
 
 - Building robust back-end systems with .Net.
